@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#chat-room{
+	width: 400px;
+	height: 200px;
+}
+#user-input{
+	width:319px;
+	margin-left: -3px
+}
+#user-name{
+	width:75px;
+}
